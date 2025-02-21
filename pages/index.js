@@ -1,5 +1,5 @@
 function Home() {
-    return 'testing next';
+    return 'TabNews Clone';
 }
 
 export default Home;
